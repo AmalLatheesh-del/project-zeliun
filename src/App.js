@@ -5,6 +5,7 @@ import emailjs from '@emailjs/browser';
 import  { useState } from 'react';
 
 
+
 function SplashCursor({
   SIM_RESOLUTION = 128,
   DYE_RESOLUTION = 1440,
@@ -1438,6 +1439,5 @@ function Contact() {
     </section>
   );
 }
-
 
 export default App;
